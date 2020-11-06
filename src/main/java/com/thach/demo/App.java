@@ -118,6 +118,6 @@ public class App {
         }
 
         // update student
-        updateStudent(2);
+        updateStudent(1);
     }
 }
